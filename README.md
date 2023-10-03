@@ -4,7 +4,7 @@
 
 ## Deployement Link 
 
-[![Site is live at]](https://100x-engineers.github.io/layouts-assignment-Vijayabaskar56/src/index.html)
+[Checkout the deployed version](https://100x-engineers.github.io/layouts-assignment-Vijayabaskar56/src/index.html)
 
 ## Objective
 
