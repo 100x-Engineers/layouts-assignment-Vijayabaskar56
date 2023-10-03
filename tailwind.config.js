@@ -41,7 +41,7 @@ module.exports = {
         btnShadow: "0px 8px 16px 0px rgba(0, 0, 0, 0.25)",
       },
       fontFamily: {
-        "px-regular": "Inter",
+        inter: ["Inter", "sans-serif"],
         "px-secondary": "font-chirp",
       },
       fontWeight: {
